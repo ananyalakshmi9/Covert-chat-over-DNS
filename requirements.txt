@@ -1,0 +1,3 @@
+dnspython
+dnslib
+windows-curses ; sys_platform == 'win32'
